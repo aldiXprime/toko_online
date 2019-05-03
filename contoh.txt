@@ -1,0 +1,7 @@
+rencana konten saya
+
+- js
+* ES6
+*framework js
+- PHP
+- Photografer
