@@ -1,0 +1,5 @@
+rencana konten saya
+
+- js
+- CI
+- laravel
