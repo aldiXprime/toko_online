@@ -1,5 +1,7 @@
 rencana konten saya
 
 - js
-- CI
-- laravel
+* ES6
+*framework js
+- PHP
+- Photografer
